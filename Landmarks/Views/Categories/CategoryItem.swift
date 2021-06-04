@@ -2,7 +2,7 @@
 //  CategoryItem.swift
 //  Landmarks
 //
-//  Created by Mave on 6/2/21.
+//  Created by Warrick on 6/2/21.
 //
 
 import SwiftUI
