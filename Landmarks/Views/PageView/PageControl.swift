@@ -2,6 +2,9 @@
 //  PageControl.swift
 //  Landmarks
 //
+//  This is the structure that creates the buttons
+//  Nothing was changed in the code but the buttons now work
+//  XCloud may glitch when trying to add functionality
 //  Created by Warrick on 6/7/21.
 //
 
